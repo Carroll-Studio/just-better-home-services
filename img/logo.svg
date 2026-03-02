@@ -1,0 +1,22 @@
+<svg viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="80" fill="none"/>
+
+  <!-- Flame/Heating icon in purple -->
+  <g transform="translate(20, 15)">
+    <!-- Flame shape -->
+    <path d="M 15 40 Q 10 25 10 15 Q 10 5 15 0 Q 20 5 20 15 Q 20 25 15 40" fill="#6D28D9" stroke="#84CC16" stroke-width="1.5"/>
+    <!-- Lime accent on flame -->
+    <path d="M 15 20 Q 13 15 15 10 Q 17 15 15 20" fill="#84CC16"/>
+  </g>
+
+  <!-- Text: "Xtreme Heating & Air" -->
+  <text x="50" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#6D28D9" letter-spacing="0.5">
+    Xtreme H&A
+  </text>
+
+  <!-- Tagline in smaller text -->
+  <text x="50" y="55" font-family="Arial, sans-serif" font-size="10" fill="#84CC16" font-weight="500" letter-spacing="0.3">
+    HVAC EXPERTS
+  </text>
+</svg>
