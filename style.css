@@ -78,24 +78,24 @@
   --color-text-faint:     #9A9AAE;
   --color-text-inverse:   #FFFFFF;
 
-  /* --- Primary (Purple) --- */
-  --color-primary:        #6D28D9;
-  --color-primary-hover:  #5B21B6;
-  --color-primary-active: #4C1D95;
-  --color-primary-highlight: #EDE9FE;
+  /* --- Primary (Orange) --- */
+  --color-primary:        #FF6B35;
+  --color-primary-hover:  #E55A24;
+  --color-primary-active: #CC4A1A;
+  --color-primary-highlight: #FEF3EE;
 
-  /* --- Secondary (Light Purple) --- */
-  --color-secondary:      #8B5CF6;
-  --color-secondary-hover: #7C3AED;
-  --color-secondary-active: #6D28D9;
-  --color-secondary-highlight: #F3E8FF;
+  /* --- Secondary (Light Orange) --- */
+  --color-secondary:      #FF8C42;
+  --color-secondary-hover: #FF7A28;
+  --color-secondary-active: #FF6B35;
+  --color-secondary-highlight: #FFF5F0;
 
-  /* --- Accent Lime Green --- */
-  --color-gold:           #84CC16;
-  --color-gold-hover:     #65A30D;
-  --color-gold-active:    #559909;
-  --color-gold-highlight: #F0FDE8;
-  --color-gold-text:      #1F2E07;
+  /* --- Accent Brown --- */
+  --color-gold:           #5C3D22;
+  --color-gold-hover:     #4B3118;
+  --color-gold-active:    #3A250E;
+  --color-gold-highlight: #F5EDE3;
+  --color-gold-text:      #FFFFFF;
 
   /* --- Semantic --- */
   --color-success:        #2D8C3C;
@@ -133,24 +133,24 @@
   --color-text-faint:     #5A5270;
   --color-text-inverse:   #0A0A1C;
 
-  /* --- Primary (Lighter Purple for dark bg) --- */
-  --color-primary:        #A78BFA;
-  --color-primary-hover:  #C4B5FD;
-  --color-primary-active: #DDD6FE;
-  --color-primary-highlight: #2E1A47;
+  /* --- Primary (Lighter Orange for dark bg) --- */
+  --color-primary:        #FF8C42;
+  --color-primary-hover:  #FFA060;
+  --color-primary-active: #FFB480;
+  --color-primary-highlight: #332414;
 
   /* --- Secondary --- */
-  --color-secondary:      #D8B4FE;
-  --color-secondary-hover: #E9D5FF;
-  --color-secondary-active: #F3E8FF;
-  --color-secondary-highlight: #2E1A47;
+  --color-secondary:      #FFA060;
+  --color-secondary-hover: #FFB480;
+  --color-secondary-active: #FFC899;
+  --color-secondary-highlight: #332414;
 
-  /* --- Accent Lime --- */
-  --color-gold:           #BEF264;
-  --color-gold-hover:     #DCFCE7;
-  --color-gold-active:    #ECFDF5;
-  --color-gold-highlight: #1F2E07;
-  --color-gold-text:      #0A0A1C;
+  /* --- Accent Brown --- */
+  --color-gold:           #8B6B4A;
+  --color-gold-hover:     #A0805F;
+  --color-gold-active:    #B59574;
+  --color-gold-highlight: #332414;
+  --color-gold-text:      #FFFFFF;
 
   /* --- Semantic --- */
   --color-success:        #4CAF50;
